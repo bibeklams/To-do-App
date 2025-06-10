@@ -1,16 +1,26 @@
 # 📝 To-Do App
 
-A simple React To-Do List app for managing daily tasks.
+A simple and responsive React-based To-Do List application for managing daily tasks efficiently.
 
-## Features
+## 🚀 Features
 
-- Add tasks
-- Delete tasks
+- Add new tasks
 - Mark tasks as completed
+- Delete tasks
+- Realtime updates using React state
+- Stylish UI with CSS
 
-## Getting Started
+## 💻 Tech Stack
 
-```bash
-npm install
-npm run dev
-```
+- React
+- Vite
+- JavaScript
+- CSS
+
+## 📦 Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/bibeklams/To-do-App.git
+   cd To-do-App
+   ```
